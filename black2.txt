@@ -1,1 +1,1 @@
-[FBAN/FB4A:FBAV/298.0.0.43.853;FBBV/438783430;FBDM/(density=2.25,width=720,height=1400), FBLC/en_US;FBRV/188804659; FBCR/VI-India;FBMF/Google Pixel;FBBD/Google Pixel,FBPN/com.facebook.katana FBDV/Google Pixel;FBSV/9;FBOP/1FBCA/arm64-v8a:]
+[FBAN/FB4A;FBAV/199.0.0.32.118;FBBV/265171049;FBDM/{density=2.75,width=1080,height=2130};FBLC/en_GB;FBRV/172446695;FBCR/Vodafone BD;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
