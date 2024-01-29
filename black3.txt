@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957690;FBDM/{density=2.625,width=1080,height=2034};FBLC/en_GB;FBRV/335184228;FBCR/MegaFon;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A5010;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 8; LG-H871S Build/QP1A.640757.828 [FBAN/EMA;FBLC/en_GB;FBAV/268.0.0.5.116;FBDM/DisplayMetrics{density=1.5, width=540, height=888, scaledDensity=1.5, xdpi=221.225, ydpi=221.672};]
