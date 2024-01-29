@@ -1,0 +1,1 @@
+Dalvik/2.1.0 (Linux; U; Android 8; LG-H871S Build/QP1A.640757.828 [FBAN/EMA;FBLC/en_GB;FBAV/268.0.0.5.116;FBDM/DisplayMetrics{density=1.5, width=540, height=888, scaledDensity=1.5, xdpi=221.225, ydpi=221.672};]
