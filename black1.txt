@@ -1,1 +1,1 @@
-
+Dalvik/2.1.0 (Linux; U; Android 9; U; Build/QP1A.240764.880) [FBAN/FB4A;FBAV/{app_ver};FBBV/{app_vercode};FBDM/{density=2.0,width=720,height=1204};FBLC/en_GB;FBCR/Robi;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-J8;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
