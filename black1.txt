@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/228.0.0.35.55;FBBV/293573945;FBRV/0;FBPN/com.facebook.katana;FBLC/es_ES;FBMF/Infinix;FBBD/Infinix;FBDV/Z266 Pro;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/357.0.0.23.115;FBBV/311415020;FBDM/{density=1.0,width=800,height=1024};FBLC/en_US;FBCR/POST Luxembourg;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo X6S Plus;FBSV/13.7.4;FBCA/arm64-v8a:;]
