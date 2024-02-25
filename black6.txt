@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/238.0.0.36.70;FBBV/380184914;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/Infinix;FBBD/Infinix;FBDV/G131T;FBSV/12;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
